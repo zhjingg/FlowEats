@@ -1,0 +1,15 @@
+import cv2
+
+cap = cv2.VideoCapture(test)#攝影鏡頭名稱
+
+while True:
+    ret, frame = cap.read()
+    if ret:
+        cv2.imshow('video', frame)
+        ret, img = cap.read()
+        hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
+        bodyCascade = cv2.CascadeClassifier('body_detect.xml')
+        bodyCascade.detectMultiScale(hsv,1.1,3)
+    else:
+        break
+    cv2.waitKey(1)
