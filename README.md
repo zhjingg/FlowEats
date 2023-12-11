@@ -1,16 +1,7 @@
-# uber_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 動機
+活在科技發達的時代的我們，萬事都要快速的完成。不分男女老少，上班族或學生都離不開手機這個3C產品。無論在哪裡快速和方便是現代人的要求，甚至點餐都要快。因為快、方便和離不開手機的時代，所以不少人不願浪費時間去排很長的隊來點餐或等餐點。我們都知道學生一到下課時間都會奔向附近店家來填滿已經餓的肚子，上班族都會希望能快速吃一頓好的餐點並能早點休息。不只學生及上班族，每個人都希望能在三餐時間提供自己快速填滿肚子的好餐點。雖然有了google maps來幫我們統計店家人潮流量但我們都知道統計是來自於使用者資訊並不是很即時的提供店家人潮的資訊，所以我們就開發透過手機就可以看您附近店家的人潮流量。針對這軟體能帶給許多人好處是：
+其一、透過這軟體服務能讓許多人能節省時間不用排隊等餐點。
+其二、希望能讓許多人可以利用等待時間去完成其它事情。
+其三、透過這方法讓店家能掌控人潮流量以及餐點的數量。
+## 作品簡介
+我們希望能做出一個完善及方便使用的APP，不僅可以即時提供給使用者關於店家人潮流量的即時訊息甚至對店家有助在掌控餐點數量，減少食物浪費。透過這app就能隨時隨地的快速點餐，不用再去店家去排很長的隊。只要有網路就能在原地的查看附近店家的人潮流量，這樣一來就能節省時間排隊而且還可以把這時間利用在忙別的事情。雖然有了Google Maps的APP來提供店家的人潮流量但它終究還是屬於一個資料統計並非即時性。讓雙方都能達到目標也可以讓許多人更方便即時的點餐
